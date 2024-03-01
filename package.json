@@ -35,6 +35,7 @@
     "prettier": "^3.2.5"
   },
   "dependencies": {
+    "@discordjs/voice": "^0.16.1",
     "discord.js": "^14.14.1"
   }
 }
